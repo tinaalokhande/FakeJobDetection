@@ -85,19 +85,8 @@ Metrics Used:
 ## 👤 Author
 
 **Tina Lokhande**  
-Aspiring Data Analyst | Python & Power BI Enthusiast
+Aspiring Data Analyst
 
 ---
 
-## 📌 Repository Structure
 
-```bash
-.
-├── Fake_Job_Posting_Detection_Portfolio_Notebook.ipynb
-├── fake_job_postings.csv
-└── README.md
-```
-
----
-
-⭐ If you found this useful, feel free to star this repo and connect with me on [LinkedIn](https://www.linkedin.com/)!
